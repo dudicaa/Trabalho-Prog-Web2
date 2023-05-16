@@ -57,7 +57,17 @@
             <label>Feminino</label>
             <input type="radio" name="sexo" value="feminino" id="feminino">
             <label>Outro</label>
-            <input type="radio" name="sexo" value="outro" id="outro">
+            <input type="radio" name="sexo" value="outro" id="outro"><br><br>
+            
+            <p>Escolha seus gêneros preferidos de filmes</p>
+            
+            <label>Comédia</label>
+            <input type="checkbox" name="gênero filme"><br>
+            <label>Romance</label>
+            <input type="checkbox" name="gênero filme"><br>
+            <label>Terror</label>
+            <input type="checkbox" name="gênero filme"><br>
+
 
         </form>
     </body>
