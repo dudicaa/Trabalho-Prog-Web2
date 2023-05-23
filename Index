@@ -15,6 +15,9 @@
             <label>Endereço:</label>
             <input type="text" name="Endereço" id="Endereço"><br> <br>
 
-            <input type="submit" value="Entrar">
+            <input type="submit" value="Entrar"><br><br>
+            
+            <a href= "cadastro_usuario.html">Cadastro</a>
         </form>
      </body>
+     </html>
