@@ -1,0 +1,32 @@
+body{
+    max-width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #424242;
+}
+#logo{
+    position: absolute;
+    top: -30px;
+    left: 650px;
+}
+form{
+    position:relative;
+    color: #D8D8D8;
+    font-family: Palatino, URW Palladio L, serif;
+}
+h3{
+    font-family: Palatino, URW Palladio L, serif;
+    font-size: 25pt;
+    text-align: center;
+    color:#D82B1E;
+}
+input{
+    position: relative;
+    left: 5px;
+    box-decoration-break: unset;
+}
+enviar{
+    position: relative;
+    top: 25px;
+}
