@@ -58,15 +58,38 @@
             <input type="radio" name="sexo" value="feminino" id="feminino">
             <label>Outro</label>
             <input type="radio" name="sexo" value="outro" id="outro"><br><br>
-            
+
             <p>Escolha seus gêneros preferidos de filmes</p>
             
+            <label>Ação</label>
+            <input type="checkbox" name="gênero filme"><br>
+            <label>Aventura</label>
+            <input type="checkbox" name="gênero filme"><br>
             <label>Comédia</label>
+            <input type="checkbox" name="gênero filme"><br>
+            <label>Suspense</label>
+            <input type="checkbox" name="gênero filme"><br>
+            <label>Drama</label>
             <input type="checkbox" name="gênero filme"><br>
             <label>Romance</label>
             <input type="checkbox" name="gênero filme"><br>
             <label>Terror</label>
-            <input type="checkbox" name="gênero filme"><br>
+            <input type="checkbox" name="gênero filme"><br><br>
+
+            <label>Usuário:</label>
+            <input type="text" name="usuário" id="usuário2"><br><br>
+            <label>Senha:</label>
+            <input type="password" name="senha" id="senha"><br><br>
+
+            <input type="submit" value="Cancelar">
+            <input type="reset" value="Limpar">
+            <input type="submit" value="Cadastrar"><br><br>
+
+            <a href="indextrabalho.html">Voltar</a>
+            
+
+
+
 
 
         </form>
