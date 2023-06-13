@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+   
+       
+    <head>
+        <meta charset="UTF-8" >
+        <title>Superbad é hoje</title>
+     </head>
+     <body>
+        <p> <b>Diretor:</b>Greg Mottola</p> <br>
+        <p> <b>Elenco:</b>Jonah Hill, Michael Cera, Christopher Mintz-Plasse</p> <br>
+        <p><b>Gênero:</b> Comédia</p> <br>
+        <p><b>Classificação etária:</b> 16 anos</p> <br>
+        <p><b>Duração:</b> 1 hora e 53 minutos</p> <br>
+        <p> <b>Sinopse:</b> Evan (Michael Cera) e Seth (Jonah Hill) são amigos inseparáveis, que estão terminando o colegial. 
+        Eles vão para faculdades diferentes e, desta forma, são obrigados a se separar. Evan é amável, esperto e normalmente aterrorizado com o que acontece à sua volta, 
+        enquanto que Seth é desbocado, frívolo e obcecado pela sexualidade. Cada um de sua forma, eles precisarão superar suas frustrações com as mulheres no fim desta 
+        fase de suas vidas.</p>
+
+        <img src="img/superbad-e-hoje.jpg">
+        
+
+     </body>
+</html>
